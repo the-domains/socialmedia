@@ -1,0 +1,28 @@
+name: socialmedia
+favicon: null
+layout_spectrum: 0.15061845839954913
+typography_spectrum: 0.20058021321892738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18153587286360562
+  lightness: 0.22330643562600017
+  saturation: 0.3588723826687783
+  rhythmicContrast: 0.7204571736510843
+purpose: []
